@@ -1,0 +1,20 @@
+{
+  "name": "lib-npm",
+  "version": "1.0.0",
+  "description": "Lib de test NPM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmaciel1996/lib-npm.git"
+  },
+  "keywords": [],
+  "author": "Lucas Maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasmaciel1996/lib-npm/issues"
+  },
+  "homepage": "https://github.com/lucasmaciel1996/lib-npm#readme"
+}
